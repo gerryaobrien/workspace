@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smart Homes Best Buy Locator</string>
+    <string name="prompt">Search by Zip Code</string>
+    <string name="submit_button">Submit</string>
+    <string name="input_hint">Enter 5 Digit Zip</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
